@@ -1,48 +1,48 @@
 # Praktikum
 ## PHP Dasar
-- Sebelum nya pastikan anda sudah menginstall XAMPP dan melakukan konfigurasi agar dapat menjalankan web server, kemudian kita masukan kode seperti berikut
+- Sebelum nya pastikan anda sudah menginstall XAMPP dan melakukan konfigurasi agar dapat menjalankan web server, kemudian kita masukan kode seperti berikut :
 ![I1](https://github.com/kannahs/Lab7web/blob/master/image/I1.PNG?raw=true)
-- Untuk melihat hasil nya bisa di akses melalui URL http://localhost/lab7_php_dasar/php_dasar.php
+- Untuk melihat hasil nya bisa di akses melalui URL http://localhost/lab7_php_dasar/php_dasar.php :
 ![o1](https://github.com/kannahs/Lab7web/blob/master/image/o1.PNG?raw=true)
 ## Menambah Variabel
-- input
+- input :
 ![i2](https://github.com/kannahs/Lab7web/blob/master/image/i2.PNG?raw=true)
-- output
+- output :
 ![o2](https://github.com/kannahs/Lab7web/blob/master/image/o2.PNG?raw=true)
 ## Membuat form input
-- Berikut inputnya
+- Berikut inputnya :
 ![i3](https://github.com/kannahs/Lab7web/blob/master/image/i3.PNG?raw=true)
-- Outputnya
+- Outputnya :
 ![o3](https://github.com/kannahs/Lab7web/blob/master/image/o3.PNG?raw=true)
 ## Operator
-- Inputnya 
+- Inputnya :
 ![i4](https://github.com/kannahs/Lab7web/blob/master/image/i4.PNG?raw=true)
-- Outputnya
+- Outputnya :
 ![o4](https://github.com/kannahs/Lab7web/blob/master/image/o4.PNG?raw=true)
 ## Kondisi If
-- Input 
+- Input :
 ![i5](https://github.com/kannahs/Lab7web/blob/master/image/i5.PNG?raw=true)
-- Output
+- Output :
 ![o5](https://github.com/kannahs/Lab7web/blob/master/image/o5.PNG?raw=true)
 ## Kondisi Switch 
-- Input
+- Input :
 ![i6](https://github.com/kannahs/Lab7web/blob/master/image/i6.PNG?raw=true)
-- Output
+- Output :
 ![o6](https://github.com/kannahs/Lab7web/blob/master/image/o6.PNG?raw=true)
 ## Perulangan for
-- Input
+- Input :
 ![i](https://github.com/kannahs/Lab7web/blob/master/image/i.PNG?raw=true)
-- Output yang dihasilkan
+- Output yang dihasilkan :
 ![o7](https://github.com/kannahs/Lab7web/blob/master/image/o7.PNG?raw=true)
 ## Perulangan While
-- Input
+- Input :
 ![i8](https://github.com/kannahs/Lab7web/blob/master/image/i8.PNG?raw=true)
-- Output
+- Output :
 ![o8](https://github.com/kannahs/Lab7web/blob/master/image/o8.PNG?raw=true)
 ## Perulangan dowhile
-- Input
+- Input :
 ![i9](https://github.com/kannahs/Lab7web/blob/master/image/i9.PNG?raw=true)
-- Output
+- Output :
 ![o9](https://github.com/kannahs/Lab7web/blob/master/image/o9.PNG?raw=true)
 
 # Tugas
